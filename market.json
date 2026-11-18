@@ -6,7 +6,7 @@
       "version": "1.3.0",
       "tag": "社区",
       "desc": "回声工具+回声面板：验证 MCP 插件全链路（工具调用/钩子通知/configSchema/JSON UI/i18n）",
-      "download": "https://raw.githubusercontent.com/<你的用户名>/<仓库名>/main/plugins/com.community.echo-1.3.0.zip",
+      "download": "https://raw.githubusercontent.com/jiuser2025-max/plugins/main/plugins/com.community.echo-1.3.0.zip",
       "sha256": "a283465fe095c144164f68d976eb2caebe32b83133fc72ffb7831bad36512cba",
       "category": "工具",
       "downloads": 0,
